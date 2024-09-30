@@ -1,7 +1,7 @@
 # delta-demoj
 this is delta Git-hub  class demo.
 <<<<<<< HEAD
-# noman afzal
+# noman afzal,
  noman afzal tatla
 =======
 Noman afzal
